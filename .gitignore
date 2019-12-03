@@ -5,3 +5,6 @@
 *.ide-shm
 *.ide-wal
 
+.vs/DatingApp/v16/Server/sqlite3/storage.ide
+.vs/DatingApp/v16/Server/sqlite3/storage.ide-shm
+.vs/DatingApp/v16/Server/sqlite3/storage.ide-wal
