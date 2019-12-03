@@ -1,0 +1,11 @@
+.vscode
+.vs
+DatingApp/.vs
+/DatingApp.API/.vs
+bin
+obj
+*.db
+*.dtbcache
+*.lock
+*.ide
+*.suo
